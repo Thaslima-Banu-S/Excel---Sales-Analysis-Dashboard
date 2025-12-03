@@ -3,7 +3,5 @@ This Excel project Analyzed sales by Cleaning data, Calculating Metrics, and Vis
 
 ![Image One](image.png)
 
-## Dashboard Preview
-![Excel Daashboard Image Two](Excel Dashboard.png)
 
 
